@@ -1,3 +1,7 @@
-Portfolio de Ingeniería
-Bienvenido. Aquí recojo mis proyectos de diseño mecánico, prototipado y cálculo.
-[Ver Plataforma Biomédica TALES](./content/tfg-plataforma-biomedica/index.md)
+Pablo Aparicio Martín
+Engineering Portfolio
+
+Welcome. Here you can find more about my academic and personal projects:
+
+
+[Ver Plataforma Biomédica TALES](./content/Biomedical Platform/index.md)
