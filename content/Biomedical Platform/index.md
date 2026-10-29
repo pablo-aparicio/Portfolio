@@ -1,1 +1,0 @@
-# Industrial Design and Product Development Engineering Thesis
