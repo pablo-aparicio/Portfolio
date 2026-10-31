@@ -1,6 +1,5 @@
 # UBIBUS
 
 
-ubibububbi
-
-![functional prototype assembled at the laboratory](montaje_lab.jpg)
+this page is still in progress, sorry
+[← Back to Portfolio Home](../../)
