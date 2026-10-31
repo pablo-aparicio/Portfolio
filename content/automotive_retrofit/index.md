@@ -77,7 +77,7 @@ To integrate the two flying USB female connectors cleanly into the right side of
 
 | Stage 1: Form-Fit USB Seating | Stage 2: Rear Plate & Pin Locking | Stage 3: Final Console Installation |
 | :---: | :---: | :---: |
-| ![USB cables seated in custom slots](Fig7.jpg) | ![USB cables locked with plate and pin](Fig8.jpg) | ![Final USB module installed in car](Fig9.jpg) |
+| ![USB cables seated in custom slots](Fig7.jpeg) | ![USB cables locked with plate and pin](Fig8.jpeg) | ![Final USB module installed in car](Fig9.jpeg) |
 | *Fig 7. USB connector heads seated inside the custom-molded internal slots.* | *Fig 8. Connectors axially locked by the rear flat retainer plate and secured via the transverse pin.* | *Fig 9. Module press-fitted into its final position on the center console, providing accessible dual USB ports.* |
 
 ---
