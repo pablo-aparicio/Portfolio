@@ -121,7 +121,7 @@ The functional prototype enabled a dynamic, interactive pitch alongside the top 
 | Live Prototype Video (2026 Finale) | The UBIBUS Team |
 | :---: | :---: |
 | <video width="100%" controls><source src="Fig21.mp4" type="video/mp4">Your browser does not support the video tag.</video> | <img src="Fig22.jpeg" alt="UBIBUS Team: Pablo, Mafe, and Lucía" width="100%"> |
-| *Fig 20. Video demonstration of the hybrid digital-analog display in active operation.* | *Fig 21. The UBIBUS team in Valencia (from left to right: Pablo, Mafe, and Lucía).* |
+| *Fig 20. Video demonstration of the hybrid digital-analog display in active operation.* | *Fig 21. The UBIBUS team (from left to right: Pablo, Mafe, and Lucía).* |
 
 ---
 
