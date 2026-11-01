@@ -1,0 +1,50 @@
+Título del proyecto: UBIBUS
+
+El contexto y el reto: 
+UBIBUS nace como un proyecto que se desarrolla en el marco del Ford Smart Mobility Challenge. Este concurso busca que nazcan ideas innovadoras que mejoren la movilidad urbana, en el marco de las Smart Cities. Es un proyecto que llevé a cabo desde febrero de 2025 con 2 compañeras, una arquitecta y una diseñadora industrial. Para la primera fase del proyecto, competimos con otros equipos de estudiantes vinculados a la UPM, en octubre de 2025 y quedamos primeros. Gracias a eso, pudimos ser finalistas y viajar a valencia en octubre de 2026 para defender nuestro proyecto en el Ford Smart Mobility Accelerator. Allí, coincidimos con los ganadores de otras 4 universidades europeas.
+
+Proyecto. Problema y solución: 
+Nuestro proyecto busca atajar un problema frecuente en España: la insatisfacción y desesperación que producen los retrasos en los buses. Cambiar la puntualidad de los buses es un objetivo muy ambicioso, que requiere la colaboración de múltiples administraciones y empresas, y que puede implicar una profunda replanificación urbana. Pero, gestionar la información que se le da al usuario de manera más empática, para que los usuarios estén mejor informados, reciban la información que necesitan, en el formato que la necesitan y en el momento exacto; es algo que se puede conseguir desde el enfoque de una startup. y eso es lo que busca UBIBUS, crear una interfaz que en lugar de mostrar el tiempo que le falta al bus (un único número que cambia o no cambia sin contexto) mostrar la ubicación del bus. Pero no en un mapa difícil de entender para algunos usuarios, sino en la estructura de cartel de linea a la que ya están acostumbrados. Estos son unos carteles verticales en los que se indica, como en un linea del tiempo, las paradas de la ruta. 
+
+La propuesta de ubibus consiste en crear un cartel híbrido, digital-analógico, mediante el uso de esos pósters de papel ligeramente modificados, con un recorte donde se posiciona una pantalla. Esta pantalla muestra la ubicación del bus en la línea, permite conocer si se mueve o no, con un código de color adaptado a daltonismo, permite también conocer el estado del bus: rojo-atasco, azul-circulación normal, gris-bus fuera de servicio; además, se le pueden colocar iconos a los buses para mostrar que sufren una incidencia específica, que vendría acompañada de un texto explicativo en la parte inferior y una posible alternativa de transporte. Al ser un producto físico y alojado en las paradas, permite que sea usado por todos los usuarios (sin importar sus habilidades digitales) nada más entrar al servicio (parada de bus) sin necesitar instalar una app. Es parte del mobiliario urbano. Además, al conservar el poster en papel, nos aseguramos de que ante un apagón, el producto conserva su función más imprescindible, mostrar las paradas de la linea, el origen y el destino. Es por tanto un producto resiliente que siempre cumple su función más básica para con los usuarios. Además, cuenta con funciones de accesibilidad como un botón de lectura para invidentes.
+
+Desarrollo:
+La idea fue concebida realizando varias sesiones de ideación colaborativa con mis compañeras, primero para buscar un problema, usando brainstorming y elementos del design thinking como las persona, para lograr empatizar con los usuarios y poder entender problemas que enfrenten al usar el transporte público. Después de aplicar estas metologías, en grupo, y de ir afinando la idea, también en grupo, nos dividimos para sacar el máximo potencial de cara a las entregas. Mi rol principal fue el prototipado de los conceptos y las ideas, además de una parte económica de presupuestos y planes de negocio.
+En la primera fase del concurso (pitch presentation de octubre 2025) no contábamos con financiación, teníamos que presentar la idea, su impacto y su viabilidad económica con un presupuesto limitado. Por ello, afronté el prototipo bajo la premisa de demostrar el producto mínimo viable, es decir, prototipar la función innovadora e indispensable. Bebiendo también del prototipado rápido del design thinking ideé un prototipo sencillo pero convincente y muy visual. Sobre una tabla de contrachapado, se colocaba uno de nuestros carteles de ruta modificado, impreso en papel. Este papel tenía un recorte en la zona donde iría la pantalla. Sin embargo, al no tener aún pantalla, ni el software o hardware necesarios, imprimí en 3D varios iconos de bus, con unos palos que salían hacia el lateral del cartel y permitían desplazar el bus de arriba a abajo manualmente. A esos buses les pegué otros trozos de papel del color correspondiente, azul para tránsito normal y rojo para atasco. El resultado fue un éxito, con menos de 30 euros logramos un prototipo muy potente visualmente y que permitía entender el funcionamiento que podría tener nuestro producto si lo siguiéramos desarrollando. Gracias a esto obtuvimos el primer premio de la convocatoria, que implicaba financiación para desarrollar el proyecto.
+
+La siguiente fase, el Ford Smart Mobility Accelerator, tuvo lugar en octubre de 2026 en valencia. Para esta fase pudimos desarrollar más el producto, entender mejor qué funciones debía o no tener, hacer un plan de negocio mejor, identificar partners futuros, etc, etc. En cuanto a los prototipos, que siguió siendo mi función principal, el dinero obtenido en la fase anterior nos permitió crear algo mucho más avanzado.
+
+Sin embargo, tuvimos que afrontar un nuevo reto. Yo me había mudado a Zúrich, con mi impresora 3D. Lucía seguía en Madrid y Mafe se había mudado a Berlín. Esto complicó mucho la logística. Decidimos comprar una pantalla con las dimensiones adecuadas para nuestro producto, es decir, 5 cm de ancho y 50 de largo. Tardó varios meses en llegar, y como la siguiente fase sería en Valencia, la enviamos a Madrid con Lucía, para asegurarnos de que llegaba y la podíamos recoger, y que la llevara ella en tren a valencia, siendo más cómodo y seguro para la pantalla que viajar en avión. Así que yo tenía que fabricar un prototipo avanzado, con una carcasa que contuviera la electrónica, sujetara el poster y la pantalla y una estructura que sostuviera todo. Además, debía de poder hacerlo con las pocas cosas que tenía al haberme mudado recientemente a suiza, con mi impresora casera de 220mm * 220mm *300 mm y que se pudiera transportar en una maleta de mano. Lucía me envió las medidas de la pantalla, midiendo con cuidado. Pero aún así, como no íbamos a poder probar todo antes de ir a valencia, sino que lo montaríamos un día antes de la pitch competition, tuve que diseñar las cosas con ajustes y cadenas de tolerancias holgadas. La carcasa, impresa en 3D, la diseñé entera y la dividí en trozos pequeños que se imprimieran bien, con uniones tipo cola de milano. Luego, una vez unidas, las lijaría, rellenaría los huecos con pasta de cola y serrín fino, y las pintaría de blanco. Para la estructura usé una estantería vieja que encontré en la calle, rescatando varias tablitas de madera. Traté de ensamblar lo máximo posible en Zúrich, usando cola blanca, tornillos y tacos, aún así, la estructura se debía transportar dividida, porque era demasiado alta para entrar en la maleta. Las patas se partían en dos, unidas por tornillos y una pletina impresa en 3D.
+
+Cuando llegamos a valencia, ensamblamos todo, y quedó perfecto al colocar la pantalla, el póster y un metacrilato en la parte frontal. Al correr el software de demostración que Lucía había programado para la pantalla el prototipo comunicaba a la perfección cómo sería el producto. Aunque aún tiene aspecto y características de prototipo, el acabado fue bueno, recibió comentarios muy positivos tanto del jurado como del resto de participantes y nos permitió hacer un pitch muy interactivo y diferente. 
+
+Personalmente, me encantó diseñar y fabricar este prototipo, con todos los contratiempos o restricciones que tuvo asociados. Y el sentimiento de montarlo en valencia y que todas las medidas y ajustes cuadraran fue increíblemente satisfactorio.
+
+Herramientas utilizadas: Autodesk inventor, Inkscape, Orcaslicer, impresora FFF, corte de madera, taladro, cola blanca (prototipado con herramientas de taller en general)
+
+Nombres exactos de las imágenes: 
+Se llaman todas FigX, siendo X el número de los siguientes:
+
+1.jpg-Render conceptual de Ubibus
+2.jpg-Render de ubibus instalado en una parada de Madrid, con una usuaria probándolo, y con la pantalla de la EMT con tiempos de llegada (paradigma actual pre ubibus) de fondo
+3.png-Logo de ubibus
+4.jpeg-fabricación del primer prototipo conceptual
+5.jpg-Modelo CAD de los iconos de autobuses para el primer prototipo
+6.jpeg-Lucía y Pablo en la presentación de 2025, yo estoy mostrando el prototipo conceptual
+7.jpeg-Lucía y yo con los diplomas de primer puesto en 2025
+8.jpeg-Yo hablando al jurado, respondiendo preguntas, con el logo de ubibus de fondo, en 2025
+9.jpg-Pantalla alargada mostrando nuestro prototipo de software
+10.jpg-Modelo CAD del prototipo desarrollado para la fase de 2026, frontal
+11.jpg-Modelo CAD del prototipo desarrollado para la fase de 2026, trasera
+12.jpg-Carcasa impresa en PLA, en diferentes partes unidas.
+13.jpeg-Detalle de las uniones de colas de milano en la carcasa
+14.jpeg-Proceso de rellenado de huecos y lijado de la carcasa, con las partes ya pegadas.
+15.jpeg-Tablas de madera cortadas para la estructura
+16.jpeg-Parte superior de la estructura pegada unida con tacos y tornillos y pegada con cola.
+17.jpg-Parte superior de la estructura ya seca
+18.jpeg-Pletina con tornillos para permitir que la estructura quepa en la maleta y unir las partes en valencia
+19.jpeg-Prototivo ensamblado en valencia, un día antes de la competición de 2026
+20.jpeg-Prototipo en funcionamiento en la competición de 2026
+21.mp4-Vídeo del prototipo en funcionamiento en la competición de 2026
+22.jpeg-Foto del equipo UBIBUS (Pablo, Mafe y Lucía; de iz a dcha)
+
