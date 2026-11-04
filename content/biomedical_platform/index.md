@@ -1,9 +1,16 @@
+---
+layout: default
+title: "Modular Biomedical Platform for Photonic & Electrochemical Biosensing (Project TALES)"
+description: "Design, calibration, and additive manufacturing of an optomechanical platform with laser micro-positioning for Organ-on-a-Chip biosensing at CTB-UPM."
+---
+
 [← Back to Main Portfolio](../../)
 
 <style>
   .gallery { display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 16px; margin: 1.5em 0; }
   .gallery figure { margin: 0; display: flex; flex-direction: column; align-items: center; }
-  .gallery img { height: 300px; width: auto; max-width: 100%; object-fit: contain; }
+  /* Default image height is 300px. To change one image, use <figure style="--h:360px"> */
+  .gallery img { height: var(--h, 300px); width: auto; max-width: 100%; object-fit: contain; }
   .gallery figcaption { width: 0; min-width: 100%; margin-top: 6px; font-size: 0.9em; font-style: italic; text-align: center; color: #555; }
   .hero { margin: 1.5em 0; text-align: center; }
   .hero img { width: 100%; max-width: 900px; height: auto; }
