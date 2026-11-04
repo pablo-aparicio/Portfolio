@@ -22,7 +22,7 @@ description: "Portfolio of mechanical design, product development and rapid prot
   .skills p { margin: 0; }
 </style>
 
-<div class="intro">
+
 
 # Pablo Aparicio Martín
 
@@ -31,7 +31,7 @@ description: "Portfolio of mechanical design, product development and rapid prot
 Welcome! I'm a Mechanical and Industrial Design Engineer from Spain, currently living in Zurich. Here you can find a selection of my academic and personal projects, from laboratory instrumentation to urban mobility and automotive interiors. Each project documents the full process: problem, design decisions, prototyping, and the final result.
 
 **Contact:** [pabloaparicio8@gmail.com](mailto:pabloaparicio8@gmail.com)
-</div>
+
 
 <!-- TODO (optional): add a 1-2 line bio (studies, interests, location), a profile photo, and contact links (email, LinkedIn, CV in PDF). -->
 
